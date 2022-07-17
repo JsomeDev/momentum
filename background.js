@@ -1,4 +1,4 @@
-const images = ["img2.webp","img3.webp","img4.webp","img5.webp","img8.webp"];
+const images = ["img2.webp","img4.webp","img5.webp","img8.webp"];
 
 const chosenImage = images[Math.floor(Math.random()*images.length)];
 
