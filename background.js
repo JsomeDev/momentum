@@ -1,4 +1,4 @@
-const images = ["img.avif", "img2.avif", "img6.avif","img8.webp","img9.webp"];
+const images = ["img.avif", "img2.avif", "img6.avif","img8.webp"];
 
 const chosenImage = images[Math.floor(Math.random()*images.length)];
 
