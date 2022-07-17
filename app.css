@@ -110,7 +110,6 @@ button {
     margin-left: 30px;
     background: transparent;
     border:none;
-    border-left: 1px outset #e9ecef;
 }
 
 button:hover {
