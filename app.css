@@ -122,12 +122,12 @@ button:hover {
 #weather {
     font-family: Montserrat, sans-serif;
     text-align:center;
-    color:#505050;
+    color:white;
     font-stretch: condensed;
     margin:none;
     margin-right: 20px;
     text-shadow: 1px 1px 1px #949494;
-    font-size: px;
+    font-size: 20px;
     font-style:italic;
 }
 
