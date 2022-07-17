@@ -121,7 +121,7 @@ button:hover {
 
 #weather {
     font-family: Montserrat, sans-serif;
-    text-align:right;
+    text-align:center;
     color:#505050;
     font-stretch: condensed;
     margin:none;
