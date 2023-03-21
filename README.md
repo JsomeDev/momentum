@@ -5,4 +5,4 @@
 <br> 링크: https://joosomi.github.io/momentum.io/
 <p>LocalStorage에 username과 todos를 저장하고 x버튼을 누를 경우 삭제하여 창을 닫아도 이전 기록들을 볼 수 있게 설정하였습니다.</p>
 <p>Math.random()를 활용하여, 배경 이미지와 밑의 명언들이 랜덤으로 뜰 수 있게 설정하였습니다.</p>
-<p>openweathermap api를 사용하여 사용자가 현재 위치하고 있는 위치의 도시를 보여줄 수 있습니다.</p>
+<p>openweathermap api를 사용하여 사용자가 현재 위치 정보 제공에 동의한 경우, 현재 위치한 도시의 섭씨 기온과 날씨 정보를 보여줍니다.</p>
